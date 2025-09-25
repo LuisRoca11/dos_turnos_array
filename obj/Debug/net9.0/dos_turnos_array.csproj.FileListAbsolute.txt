@@ -2,3 +2,14 @@
 /home/linux/Programacion/C Sharp/dos_turnos_array/obj/Debug/net9.0/dos_turnos_array.AssemblyInfoInputs.cache
 /home/linux/Programacion/C Sharp/dos_turnos_array/obj/Debug/net9.0/dos_turnos_array.AssemblyInfo.cs
 /home/linux/Programacion/C Sharp/dos_turnos_array/obj/Debug/net9.0/dos_turnos_array.csproj.CoreCompileInputs.cache
+/home/linux/Programacion/C Sharp/dos_turnos_array/obj/Debug/net9.0/dos_turnos_array.sourcelink.json
+/home/linux/Programacion/C Sharp/dos_turnos_array/bin/Debug/net9.0/dos_turnos_array
+/home/linux/Programacion/C Sharp/dos_turnos_array/bin/Debug/net9.0/dos_turnos_array.deps.json
+/home/linux/Programacion/C Sharp/dos_turnos_array/bin/Debug/net9.0/dos_turnos_array.runtimeconfig.json
+/home/linux/Programacion/C Sharp/dos_turnos_array/bin/Debug/net9.0/dos_turnos_array.dll
+/home/linux/Programacion/C Sharp/dos_turnos_array/bin/Debug/net9.0/dos_turnos_array.pdb
+/home/linux/Programacion/C Sharp/dos_turnos_array/obj/Debug/net9.0/dos_turnos_array.dll
+/home/linux/Programacion/C Sharp/dos_turnos_array/obj/Debug/net9.0/refint/dos_turnos_array.dll
+/home/linux/Programacion/C Sharp/dos_turnos_array/obj/Debug/net9.0/dos_turnos_array.pdb
+/home/linux/Programacion/C Sharp/dos_turnos_array/obj/Debug/net9.0/dos_turnos_array.genruntimeconfig.cache
+/home/linux/Programacion/C Sharp/dos_turnos_array/obj/Debug/net9.0/ref/dos_turnos_array.dll

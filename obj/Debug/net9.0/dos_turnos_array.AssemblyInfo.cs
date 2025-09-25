@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dos_turnos_array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93c90ac59d974907922c0e7ac5e57bb7e04bd0b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d923d306706cfbb8d76a71d2f6a0aeefe88377d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("dos_turnos_array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dos_turnos_array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

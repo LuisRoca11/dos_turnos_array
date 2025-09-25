@@ -48,7 +48,7 @@ namespace dos_turnos_array
 
         static void Main(string[] args)
         {
-            dos_turnos_array pv = new float[];
+            dos_turnos_array pv = new dos_turnos_array();
             pv.Cargar();
             pv.Imprimir();
         }
