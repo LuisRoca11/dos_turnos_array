@@ -1,0 +1,4 @@
+/home/linux/Programacion/C Sharp/dos_turnos_array/obj/Debug/net9.0/dos_turnos_array.GeneratedMSBuildEditorConfig.editorconfig
+/home/linux/Programacion/C Sharp/dos_turnos_array/obj/Debug/net9.0/dos_turnos_array.AssemblyInfoInputs.cache
+/home/linux/Programacion/C Sharp/dos_turnos_array/obj/Debug/net9.0/dos_turnos_array.AssemblyInfo.cs
+/home/linux/Programacion/C Sharp/dos_turnos_array/obj/Debug/net9.0/dos_turnos_array.csproj.CoreCompileInputs.cache
